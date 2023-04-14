@@ -61,7 +61,7 @@
     <div class="container">
         <div class="main-title">
             <h1>Featured Properties</h1>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+            <p>we are the main deal in town.</p>
         </div>
         <div class="row">
             <div class="col-lg-3 col-md-6 col-sm-6 wow fadeInLeft delay-04s">
